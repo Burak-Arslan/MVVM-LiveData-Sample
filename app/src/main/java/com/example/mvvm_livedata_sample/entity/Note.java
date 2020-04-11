@@ -1,4 +1,4 @@
-package com.example.mvvm_livedata_sample;
+package com.example.mvvm_livedata_sample.entity;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

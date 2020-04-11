@@ -1,8 +1,10 @@
-package com.example.mvvm_livedata_sample;
+package com.example.mvvm_livedata_sample.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.mvvm_livedata_sample.R;
 
 public class MainActivity extends AppCompatActivity {
 
